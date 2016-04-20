@@ -1,0 +1,12 @@
+Source: ros-jade-auv-msgs
+Section: misc
+Priority: extra
+Maintainer: Matias Valdenegro <m.valdenegro@hw.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-geographic-msgs, ros-jade-geometry-msgs, ros-jade-message-generation, ros-jade-sensor-msgs, ros-jade-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-auv-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-geographic-msgs, ros-jade-geometry-msgs, ros-jade-message-runtime, ros-jade-sensor-msgs, ros-jade-std-msgs
+Description: This package provides message types commonly used with Autonomous Underwater Vehicles
