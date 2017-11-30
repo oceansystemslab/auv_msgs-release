@@ -1,0 +1,16 @@
+ros-lunar-auv-msgs (0.1.0-0stretch) stretch; urgency=high
+
+  * updated maintainers list
+  * Added WorldWaypointRequest and renamed Requested msgs
+  * Contributors: Bence Magyar, Ignacio Carlucho
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Wed, 29 Nov 2017 00:00:00 -0000
+
+ros-lunar-auv-msgs (0.0.1-0stretch) stretch; urgency=high
+
+  * Initial commit
+  * Contributors: Bence Magyar
+
+ -- Matias Valdenegro <m.valdenegro@hw.ac.uk>  Thu, 24 Mar 2016 00:00:00 -0000
+
+
