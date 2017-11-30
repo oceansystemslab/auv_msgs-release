@@ -1,3 +1,26 @@
+## auv_msgs (lunar) - 0.1.0-0
+
+The packages in the `auv_msgs` repository were released into the `lunar` distro by running `/usr/bin/bloom-release auv_msgs --track lunar --rosdistro lunar --edit` on `Thu, 30 Nov 2017 12:58:02 -0000`
+
+The `auv_msgs` package was released.
+
+Version of package(s) in repository `auv_msgs`:
+
+- upstream repository: https://github.com/oceansystemslab/auv_msgs.git
+- release repository: https://github.com/oceansystemslab/auv_msgs-release.git
+- rosdistro version: `0.0.1-0`
+- old version: `0.0.1-0`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## auv_msgs (kinetic) - 0.1.0-0
 
 The packages in the `auv_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release auv_msgs --track kinetic --rosdistro kinetic --edit` on `Thu, 30 Nov 2017 12:47:20 -0000`
