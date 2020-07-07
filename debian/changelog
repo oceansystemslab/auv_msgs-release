@@ -1,0 +1,23 @@
+ros-melodic-auv-msgs (0.1.1-1stretch) stretch; urgency=high
+
+  * Bump CMake version to prevent CMP0048
+  * Contributors: Bence Magyar
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Mon, 06 Jul 2020 23:00:00 -0000
+
+ros-melodic-auv-msgs (0.1.0-1stretch) stretch; urgency=high
+
+  * updated maintainers list
+  * Added WorldWaypointRequest and renamed Requested msgs
+  * Contributors: Bence Magyar, Ignacio Carlucho
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Wed, 29 Nov 2017 00:00:00 -0000
+
+ros-melodic-auv-msgs (0.0.1-1stretch) stretch; urgency=high
+
+  * Initial commit
+  * Contributors: Bence Magyar
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Thu, 24 Mar 2016 00:00:00 -0000
+
+
